@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+title: Home
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/fischerbenjamin/fischerbenjamin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Benjamin Fischer and I'm a 24 year old computer science student.
+Currently, I'm studying in my last semester before writing my master's thesis at the university FAU Erlangen-Nürnberg.
 
-### Markdown
+### Coding
+Programming and developing software has become a real passion over time and I always try to improve my skills.
+I'm no experienced developer yet, but I'm working on it!
+I have some experience in multiple programming languages and technologies/frameworks,
+but I definetely would consider Python as my main programming language.
+If you want to know more about these topics or my deepening lectures,
+just send me an e-mail or view my profile on LinkedIn.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My free time
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fischerbenjamin/fischerbenjamin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Besides programming, I enjoy playing football or meeting my friends.
+Additionaly, I like cooking and listening to music or playing the guitar myself.
+There's obviously something missing at the end: relaxing and watching series and movies (:
