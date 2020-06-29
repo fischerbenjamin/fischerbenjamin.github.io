@@ -14,22 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: fischerbenjamin
-email: benjaminfischer.dev@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my GitHub page! You can read about my personal projects and
-  blog posts. Feel free to send me an e-mail if you have any questions or feedback.
-  I'm looking forward to your message :) 
+email: benjamin.f.fischer@fau.de
+description: >- # this means to ignore newlines until "baseurl:" 
+  My personal GitHub page. Computer science student, 24 years old and
+  interested in tech & programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _ben_fischer_
 github_username:  fischerbenjamin
-# linkedin_username: b-fischer-dev
+linkedin_username: benjamin-f-fischer
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
