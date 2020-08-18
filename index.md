@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-My name is Benjamin Fischer and I'm a 24 year old computer science student.
+My name is Benjamin Fischer and I'm a 25 year old computer science student.
 Currently, I'm studying for my final semester before writing a master's thesis
 at the university FAU Erlangen-Nürnberg. Feel free to send me an e-mail if you
 have any questions or want to know more about any of these topics.
