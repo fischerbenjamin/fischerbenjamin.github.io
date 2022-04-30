@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.email {
+    color: #4C566A !important;
+    font-family: monospace !important;
+    font-weight: 600 !important;
+}

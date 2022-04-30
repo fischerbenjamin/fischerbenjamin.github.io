@@ -14,15 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: fischerbenjamin
-email: benjamin.f.fischer@fau.de
-description: >- # this means to ignore newlines until "baseurl:" 
-  My personal GitHub page. Computer science student, 25 years old and
-  interested in tech & programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: _ben_fischer_
-github_username:  fischerbenjamin
-# linkedin_username: benjamin-f-fischer
 
 # Build settings
 markdown: kramdown
@@ -34,7 +27,7 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
